@@ -1,0 +1,175 @@
+var data = {
+	"profile": { 
+		"name":"SITI ZURIA SOLEHAH BINTI MOHAMAD ZAMRI",
+		"short_name":"ZURIA ZAMRI",
+		"phone":"+60194605413",
+		"email":"zuriazamri94@gmail.com",
+		"address_simple":"Pantai Dalam, Kuala Lumpur",
+		"address":"53-1-13, Apartment Pantai Indah, Jalan Pantai Dalam,59200, Kuala Lumpur",
+		"github_link":"",
+		"linkedin_link":"https://www.linkedin.com/in/siti-zuria-solehah-mohamad-zamri-361470139/",
+		"position":" Senior Software Engineer",
+		"dob":"28 April 1994",
+		"resume_link":"resume.pdf",
+		"about_yourself_simple":"To be recognized as the Design and Test Engineer ",
+		"about_myself":"To be successful software tester, and having a working knowledge of software and test design, including capability to run through tests, and the ability to analyze the results.",
+		"profile_image":"img/Portfolio_zu_resize.jpg",
+	},
+
+	"ability": [
+		{
+			"ability_name":"Python",
+			"ability_value": "70",
+		},
+		{
+			"ability_name":"C++",
+			"ability_value": "70",
+		},
+		{
+			"ability_name":"Jira handling",
+			"ability_value": "90",
+		},
+		{
+			"ability_name":"Shell",
+			"ability_value": "70",
+		},
+		{
+			"ability_name":"Protues & MultiSim",
+			"ability_value": "70",
+		},
+		{
+			"ability_name":"Microsoft Office",
+			"ability_value": "90",
+		},
+
+	],
+
+	"personal_skill": [
+		{
+			"ability_name":"Leadership",
+			"ability_value": "90",
+		},
+		{
+			"ability_name":"Communication Skill",
+			"ability_value": "90",
+		},
+		{
+			"ability_name":"Teamwork",
+			"ability_value": "100",
+		},
+		{
+			"ability_name":"Quick Learner",
+			"ability_value": "90",
+		},
+		{
+			"ability_name":"Adaptability & Flexibility",
+			"ability_value": "80",
+		},
+		{
+			"ability_name":"Strategic Plan",
+			"ability_value": "80",
+		},
+		{
+			"ability_name":"Creativity",
+			"ability_value": "80",
+		},
+		{
+			"ability_name":"Ability Work Under Pressure",
+			"ability_value": "90",
+		},
+
+	],
+
+	"language": [
+		{
+			"language_name":"English",
+			"language_value": "70",
+			"language_speak": "70",
+			"language_writing": "70",
+			"language_read": "70",
+		},
+		{	"language_name":"Malay",
+			"language_value": "100",
+			"language_speak": "100",
+			"language_writing": "100",
+			"language_read": "100",
+		},
+
+	],
+	
+	"education" : [
+		{
+			"edu_date": "Sep 2015 to Jul 2018",
+			"edu_company": "UITM Shah Alam",
+			"edu_place": "Shah Alam, Selangor",
+			"edu_position": "Bachelor (Hons) Electronic Engineering",
+			"edu_status": "Passed"
+		},
+		{		
+			"edu_date": "Jan 2012 to Apr 2015",
+			"edu_company": "UITM Pulau Pinang",
+			"edu_place": "Permatang Pauh, Pulau Pinang",
+			"edu_position": "Diploma Electric and Electronic Engineering",
+			"edu_status": "Passed",
+		},
+		{
+			"edu_date": "Jan 2010 to 2011",
+			"edu_company": "SMK Kulim",
+			"edu_place": "Kulim, KwsH",
+			"edu_position": "Electronic Engineer",
+			"edu_status": "Passed",
+		},
+	],
+
+	"experience" : [					
+		{						
+			"exp_date": "MAY 2021 - Current",
+			"exp_company": "CAPGEMINI SERVICE (MY) SDN BHD",
+			"exp_place": "Kuala Lumpur, MY",
+			"exp_position": "SENIOR SOFTWARE ENGINEER",
+			"exp_description": 	"• Working on Web Based tester specialize for Bank client. <br>• Understand clearly every module specification and CR request and able to write test cases for every module by less review comment. <br>• Understand thoroughly on requirement and develop test plan, test strategy, test analysis, test execution, and monitoring during product release. <br>• Design and execute systems to check for issues and Document including maintain test cases. <br>• Perform and document risk analysis and Record test progress including results. <br>• Experience in JIRA environment for report defects. Having good relationship between client and developer team for better discussion to achieve quality assurance for the testing. <br>• Has being worked with multiple server and environment. <br>• Regularly monitor on testing progress and identify ways to tackle problems to ensure the task completed within allotted time frame. <br>• Project involved has been awarded with two different awards which are Rock Star Performer and Star Tester. <br>"
+		},
+		{						
+			"exp_date": "OCT 2019 - May 2021",
+			"exp_company": "SONY EMCS (MALAYSIA) SDN BHD",
+			"exp_place": "Bangi, Selangor, MY",
+			"exp_position": "DESIGN ENGINEER",
+			"exp_description": 	"• Worked as Design Engineer, specialized in Testing Engineer focused on User Interface (UI) with the old/new design Television in User Experience Department for QA purpose. <br> • Testing to track bug if received market claim. <br>  • Testing new software released to Sony TV. <br>  • Software testing of android devices Niugat, Oreo, Pie, Q and R. <br>  • Troubleshooting hardware and software. <br>  • Automation Developer involved in verification, validation and debug scripting on User Interface (UI) and different UI Translation using Python scripting. <br>  • Executing test cases and report defects JIRA  ",
+		},	
+		{						
+			"exp_date": "August 2018 – August 2019",
+			"exp_company": "INTEL MICROELECTRONIC (PSG), PG14, PENANG",
+			"exp_place": "PG14, Pulau Pinang, MY",
+			"exp_position": "GRADUATE TRAINEE(GT)",
+			"exp_description": 	"• Worked as Programming Intellectual Protocol Graduate Trainee (GT) in (PIPE) Dept, specialized as Technical Support in IP Logic Design for Altera Rapidio2 and Serial Lite4. <br> • Involved in design verification, validation and debug with Perl, System Verilog & TCL scripting. <br> • Involved in several tools for simulator ModelSim and Synopsys. Internal tools Hammer and Perforce. <br> • Expert on using Quartus tool, to compile and generate IP. <br> • Involved in IP test and rerunning the test and find the root of causing failure. <br> • Involved in RTL checked LINT and CDC for Altera_Rapidio2. <br> • Has been assigned to create from scratch Spyglass Test for new IP for Lint and CDC test for Serial Lite 4 and make it passing for 19.1, 19.2, and 19.3. ",
+		},
+		{	
+			"exp_date": "July - August 2017",
+			"exp_company": "TNB KULIM DISTRIBUTION SDN BHD",
+			"exp_place": "Kulim, Kedah, MY",
+			"exp_position": "INTERNSHIP PROGRAM ",
+			"exp_description": 	"• Duration of internship was 8 weeks. <br> • Have been learned Network and Planning and also being Studied Operation and Maintenance. <br> • Chances to learned Provision and Service module", 
+		},
+		{
+			"exp_date": "June - August 2015",
+			"exp_company": "CELESTICA SDN BHD",
+			"exp_place": " Kulim, Kedah,MY",
+			"exp_position": "TEST TECHNICIAN",
+			"exp_description": 	"• Start working from June 2015 till August 2015 as Test Technician specialized in debug hardware testing for DC, Functional and Open Short Circuit. <br> • Expert on finding hardware failure especially in component faults.Quit to continue study in Bachelor of Engineering (Hons) Electronic",
+		},	
+	],
+
+	"award": [
+		{
+			"award_text":"Star Tester",
+			"award_title": "Star Tester for UOBM PLCE Single Source and DMS Intergration ",
+			"award_year": "2022",
+		},
+		{
+			"award_text":"Rockstar Performer",
+			"award_title": "Rockstar Performer Awards for Mortgage Repricing Project",
+			"award_year": "2021",
+		},
+
+	],
+};
