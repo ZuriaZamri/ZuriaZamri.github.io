@@ -121,9 +121,16 @@ var data = {
 		},
 	],
 
-	"experience" : [					
+	"experience" : [	
 		{						
-			"exp_date": "MAY 2021 - Current",
+			"exp_date": "DEC 2022- Current",
+			"exp_company": "eCLOUDVALLEY TECHNOLOGY SDN BHD",
+			"exp_place": "Kuala Lumpur, MY",
+			"exp_position": "SENIOR QA ENGINEER",
+			"exp_description": 	"• Collaborate closely with the development team as a Web-Based and Phone Application Tester, ensuring seamless communication between managers and developers to facilitate high-quality testing outcomes.<br>• Successfully completed six projects since joining, receiving minimal feedback from customers due to thorough and efficient testing.<br>• Thoroughly understand requirements and change request (CR) specifications, drafting detailed test cases for each module with minimal revisions.<br>• Execute test cases manually and through automation using AWS CloudWatch Synthetic Canaries and Katalon tools.<br>• Conduct testing for both Front-End and Back-End systems, including API testing with Postman, across multiple environments such as Developer, SIT, UAT, and Production.<br>• Maintain and update test cases to reflect changes accurately.<br>• Provide daily status updates on QA progress and execution to keep stakeholders informed.<br>• Create comprehensive user guides for each project to serve as customer references.<br>• Experienced in working with the Amazon Web Services (AWS) Console environment.<br>• Proficient in utilizing project management tools such as YouTrack, ClickUp, and Advanced Hunter Games (AHG) for defect reporting.<br>• Regularly monitor testing progress, proactively addressing challenges to ensure tasks are completed within the designated time frame. <br>"
+		},					
+		{						
+			"exp_date": "MAY 2021 - NOV 2022",
 			"exp_company": "CAPGEMINI SERVICE (MY) SDN BHD",
 			"exp_place": "Kuala Lumpur, MY",
 			"exp_position": "SENIOR SOFTWARE ENGINEER",
